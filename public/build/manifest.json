@@ -1,12 +1,12 @@
 {
   "resources/css/mainpage.css": {
-    "file": "assets/app-B3QzLYN8.css",
+    "file": "assets/mainpage-B3QzLYN8.css",
     "src": "resources/css/mainpage.css",
     "isEntry": true
   },
   "resources/js/mainpage.js": {
-    "file": "assets/app-Xaw6OIO1.js",
-    "name": "app",
+    "file": "assets/mainpage-Xaw6OIO1.js",
+    "name": "mainpage",
     "src": "resources/js/mainpage.js",
     "isEntry": true
   }
