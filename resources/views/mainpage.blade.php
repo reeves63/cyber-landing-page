@@ -283,7 +283,7 @@
                             Centennial Tower, 12th Floor,<br>
                             Jl. Jendral Gatot Subroto<br>
                             No. Kav 24-25, Jakarta<br>
-                            12931 Indonesia
+                            12930 Indonesia
                         </p>
                         <div class="contact-lines-container">
                             <p class="contact-line"><strong>Phone:</strong> +62 21 8062 2220</p>
