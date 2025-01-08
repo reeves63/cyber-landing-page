@@ -8,4 +8,8 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base: '/build/', // Pastikan base URL sesuai dengan folder build Anda
+    server: {
+        https: true, // Pastikan server menggunakan HTTPS
+    },
 });
